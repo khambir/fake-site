@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appID": “com.gopuff.gopuff.staging",
+        "appID": "com.gopuff.gopuff.staging",
         "paths": [
           "*"
         ]
