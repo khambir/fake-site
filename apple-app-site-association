@@ -5,7 +5,7 @@
       {
         "appID": "8K2AJPQKL4.com.gopuff.gopuff.staging",
         "paths": [
-          "*"
+          "*", "/"
         ]
       }
     ]
